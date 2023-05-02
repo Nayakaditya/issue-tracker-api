@@ -5,7 +5,7 @@ An Issue Tracker API to Create Projects and According to the project created iss
 ## Setup
 
 > Copy and Paste in your terminal :
-> `git clone https://github.com/Nayakaditya/issue-tracker-api`
+> `git clone https://github.com/Nayakaditya/issue-tracker-api.git`
 > Install all required depencies by :
 > `npm install`
 
